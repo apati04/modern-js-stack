@@ -1,0 +1,11 @@
+{
+  "name": "modern-js-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/apati04/modern-js-stack.git",
+  "author": "Andrew Patipaksiri <apax714@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
