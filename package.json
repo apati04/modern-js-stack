@@ -6,7 +6,8 @@
   "author": "Andrew Patipaksiri <apax714@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "babel-node src"
+    "start": "babel-node src",
+    "test": "eslint src"
   },
   "dependencies": {},
   "devDependencies": {
