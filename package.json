@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "babel-node src",
-    "test": "eslint src"
+    "test": "eslint src && flow"
   },
   "browserslist": ["> 1%"],
   "dependencies": {},
